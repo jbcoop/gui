@@ -1,0 +1,3 @@
+venv: https://www.youtube.com/watch?v=APOPm01BVrk
+tutorial: https://www.youtube.com/watch?v=iM3kjbbKHQU
+location: C:\Users\Admin\Desktop\re_education\gui
